@@ -1,0 +1,18 @@
+body {
+  background-color: #fffacd;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#options button {
+  padding: 15px 25px;
+  margin: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
